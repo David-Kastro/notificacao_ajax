@@ -1,0 +1,1 @@
+Exemplo de notificaçoes com Ajax (Não funcional, apenas para referencias de estudo).
